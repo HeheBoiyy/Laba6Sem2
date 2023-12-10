@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Laba6Sem2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="324" Width="992">
+        Title="MainWindow" Height="347" Width="1033" ResizeMode="NoResize">
     <Grid>
         <ListView x:Name="AllPacientsListView"  HorizontalAlignment="Left" Height="264" Margin="207,21,0,0" VerticalAlignment="Top" Width="233" 
                   ItemsSource="{Binding Allpacients}"
